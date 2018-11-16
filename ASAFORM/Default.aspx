@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron text-center ">
-        <h2>CMS ASA CHECK IN/OUT SYSTEM</h2><a>
+        <h2>CMS ASA CHECK IN/OUT SYSTEM</h2>
     </div>
     <div class="col-md-12 row">
         <div class="col-md-5 text-center" style="border: 1px solid #d8d8d8; height: 400px; border-radius: 5px;">
